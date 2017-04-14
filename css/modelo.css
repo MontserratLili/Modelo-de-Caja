@@ -1,0 +1,22 @@
+p{
+  border: dotted black;
+  background-color: white;
+  width: 130px;
+  height: 70px;
+  text-align: center;
+  margin: auto;
+}
+
+
+#hola{
+  padding: 40px 20px 70px 10px;
+  background-color: pink;
+  border: 20px 10px 20px 10px;
+  border:  15px solid purple;
+}
+
+#mundo{
+  margin: 120px 60px 30.5px 60px;
+  background-color: blue;
+  border: 30px solid blue;
+}
